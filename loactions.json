@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "name":"New Location",
+        "address":"999 fake st.",
+        "city":"Barca 99, 01902",
+        "ph":"781-555-5555"
+        
+    },
+     {
+        "id":2,
+        "name":"Old Location",
+        "address":"333 real st.",
+        "city":"Madrid 3, 20910",
+        "ph":"187-333-989898"
+        
+    }, 
+    {
+        "id":3,
+        "name":"Old-New Location",
+        "address":"111 real-fake st.",
+        "city":"Madrid-Barca 77, 1997",
+        "ph":"752-131-5551212"
+        
+    }
+    
+]

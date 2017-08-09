@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "name":"Hardware Repair",
+        "discription":"Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.... Fusce quis suscipit velit. Sed consequat tempus massa ac dapibus. Mauris quis mattis metus. Fusce vulputate diam sapien, eu suscipit elit lacinia ut. Mauris rhoncus turpis mauris, ac lobortis libero rhoncus id. Proin ac eros sit amet erat faucibus venenatis non hendrerit odio. Suspendisse sit amet elit pellentesque, feugiat justo sed, aliquam libero. Proin imperdiet sodales elit, in rutrum enim sollicitudin ac. Cras non massa sit amet diam lobortis gravida. Aliquam sed bibendum eros. Nam consequat volutpat neque, sed eleifend erat mollis sed.",
+        "image":"comp.jpg"
+    },
+    {
+        "id":2,
+        "name":"Virus Removal",
+        "discription":"Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.... Fusce quis suscipit velit. Sed consequat tempus massa ac dapibus. Mauris quis mattis metus. Fusce vulputate diam sapien, eu suscipit elit lacinia ut. Mauris rhoncus turpis mauris, ac lobortis libero rhoncus id. Proin ac eros sit amet erat faucibus venenatis non hendrerit odio. Suspendisse sit amet elit pellentesque, feugiat justo sed, aliquam libero. Proin imperdiet sodales elit, in rutrum enim sollicitudin ac. Cras non massa sit amet diam lobortis gravida. Aliquam sed bibendum eros. Nam consequat volutpat neque, sed eleifend erat mollis sed.",
+        "image":"comp.jpg"
+    },
+    {
+        "id":3,
+        "name":"System Tuneup",
+        "discription":"Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.... Fusce quis suscipit velit. Sed consequat tempus massa ac dapibus. Mauris quis mattis metus. Fusce vulputate diam sapien, eu suscipit elit lacinia ut. Mauris rhoncus turpis mauris, ac lobortis libero rhoncus id. Proin ac eros sit amet erat faucibus venenatis non hendrerit odio. Suspendisse sit amet elit pellentesque, feugiat justo sed, aliquam libero. Proin imperdiet sodales elit, in rutrum enim sollicitudin ac. Cras non massa sit amet diam lobortis gravida. Aliquam sed bibendum eros. Nam consequat volutpat neque, sed eleifend erat mollis sed.",
+        "image":"comp.jpg"
+    }
+    
+    
+]
